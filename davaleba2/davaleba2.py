@@ -1,0 +1,5 @@
+name = ("Nika")
+surname = ("Baqradze")
+age = (18)
+height = (185)
+print("My name is " + name + " " + surname + " I am " + str(age) + " Years old" + " and " + str(height) + "cm height." )
